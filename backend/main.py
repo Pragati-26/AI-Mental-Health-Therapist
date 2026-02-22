@@ -6,7 +6,7 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import uvicorn
 
-from ai_agent import handle_query  # ✅ Correct import
+from backend.ai_agent import handle_query  # ✅ Correct import
 
 app = FastAPI()
 
