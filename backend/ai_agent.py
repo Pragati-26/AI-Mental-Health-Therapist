@@ -2,7 +2,7 @@
 # SAFE SPACE AI AGENT (Stable Version)
 # ---------------------------------
 
-from tools import query_medgemma
+from backend.tools import query_medgemma   
 
 
 SYSTEM_PROMPT = """
