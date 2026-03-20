@@ -253,12 +253,5 @@ Contributions are welcome! Areas for improvement:
 
 **SafeSpace is an AI support tool, not a replacement for professional mental health care.** If you or someone you know is in crisis, please contact emergency services or the crisis helplines listed above immediately.
 
-## 📞 Support
-
-For issues, questions, or feedback:
-- Open an issue on GitHub
-- Contact: [add contact information]
-
----
 
 **Made with ❤️ for mental health support**
